@@ -4,3 +4,11 @@
   font-weight: 400px;
   font-style: normal;
 }
+
+.col a{
+    display: block;
+}
+.col img{
+    height: 50px;
+    width: 50px;
+}
