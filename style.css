@@ -18,9 +18,8 @@ main{
     justify-self: center;
     align-items: center;
     height: 100%;
-    margin-left: 150px;
-    margin-right: 150px;
-
+    margin: 150px;
+    border-radius: 150px;
 }
 
 ul{
