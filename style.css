@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("/mike-kenneally-TD4DBagg2wE-unsplash.jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+.custom-card{
+    background-color: #700548;
+    color: white;
+}
