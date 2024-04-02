@@ -8,4 +8,6 @@ body {
 .custom-card{
     background-color: #700548;
     color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
