@@ -5,6 +5,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    overflow-x: hidden;
 }
 .flexcontainer{
     display: flex;
@@ -23,9 +24,10 @@ img{
 }
 
 /*PRODUCTS*/
+
 #kaffeparty{
-    background-color: blue;
+    background-color: #8A817C;
 }
 #kaffemaskiner{
-    background-color: blueviolet;
+    background-color: #8A817C;
 }
