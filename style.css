@@ -5,9 +5,19 @@ body {
     background-size: cover;
     background-position: center;
 }
+.flexcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
 .custom-card{
     background-color: #700548;
     color: white;
-    margin-top: 2em;
-    margin-bottom: 2em;
+}
+
+img{
+    width: 100px;
+    height: 100px;
 }
