@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("/mike-kenneally-TD4DBagg2wE-unsplash.jpg") ;
+    background-image: url("/images/mike-kenneally-TD4DBagg2wE-unsplash.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,7 +17,13 @@ body {
     background-color: #700548;
     color: white;
 }
-
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    height: 50px;
+}
 img{
     width: 100px;
     height: 100px;
